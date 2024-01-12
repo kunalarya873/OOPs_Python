@@ -26,7 +26,7 @@ Follow these steps to kickstart your journey into Python OOP:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/python-oop-mastery.git
+   git clone https://github.com/kunalarya873/OOPs_Python.git
    ```
 
 2. **Explore the Code:**
